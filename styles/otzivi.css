@@ -1,0 +1,11 @@
+.home{
+    display: inline;
+    
+    text-align: right;
+}
+.E{
+    background-color: black;
+    border-radius: 50px;
+    width: 30px;
+    text-align: center;
+}

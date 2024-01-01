@@ -1,0 +1,43 @@
+.shapka{
+    display: block;
+    background-color: #0A007C;
+    font-family: Play;
+    font-size: 35px;
+    color: aliceblue;
+    padding: 50px;
+    border-radius: 50px;
+}
+.ramca{
+    text-align: center;
+}
+.logo{
+    padding: 10px;
+    display: inline;
+    
+}
+.about{
+    display: inline-block;
+    padding-left: 175px; 
+    padding: 10px;
+    padding-left: 50px;
+}
+
+.btn_about{
+    border-radius: 10px;
+    color:#0A007C;
+    background-color:aliceblue;
+    
+}
+
+
+.menu{
+    display: inline-block;
+    padding: 10px;
+    word-spacing: 50px;
+    text-align: right;
+    padding-left: 50px;
+}
+
+a, u {
+    text-decoration: none;
+  }
